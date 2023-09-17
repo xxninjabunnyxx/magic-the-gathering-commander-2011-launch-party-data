@@ -1,0 +1,18 @@
+---
+object: set
+id: ee4cadbc-d155-4355-a7c2-8fcf19af0cb6
+code: pcmd
+name: Commander 2011 Launch Party
+uri: https://api.scryfall.com/sets/ee4cadbc-d155-4355-a7c2-8fcf19af0cb6
+scryfall_uri: https://scryfall.com/sets/pcmd
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apcmd&unique=prints
+released_at: '2011-06-17'
+set_type: memorabilia
+card_count: 5
+parent_set_code: cmd
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: cmd
+block: Commander
+icon_svg_uri: https://svgs.scryfall.io/sets/cmd.svg?1694404800
